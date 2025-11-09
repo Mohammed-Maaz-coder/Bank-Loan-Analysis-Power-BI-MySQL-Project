@@ -63,5 +63,5 @@ Built an end-to-end interactive dashboard that enables management to:
 
 ## 👨‍💻 Author
 **Your Name**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile Link]  
+📧 [mohammedmaaz16012003@gmail.com]  
+🔗 [ https://www.linkedin.com/in/mohammed-maaz-a49586310]  
